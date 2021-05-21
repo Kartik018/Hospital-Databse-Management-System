@@ -1,4 +1,4 @@
-# Hospital-Management-System
+# Hospital Databaes-Management-System
 This project is aimed at developing a “Hospital Management System”. It is a system meant to maintain all the details regarding patients, storing their details into the system, and also computerized billing in the pharmacy, and labs. Retrieval of all data’s from database just by giving the patient Id.
 Hospital Management System is designed to improve the quality and management of hospital in the areas of clinical process analysis and activity-based costing. Hospital Management System enables you to develop your organization and improve its effectiveness and quality of work. Managing the key processes efficiently is critical to the success of the hospital helps you manage your processes. 
 The Hospital Management System can be entered using a username and password. The data are well protected for personal use and makes the data processing very fast. Hospital Management System is powerful, flexible, and easy to use and is designed and developed to deliver real conceivable benefits to hospitals. 
