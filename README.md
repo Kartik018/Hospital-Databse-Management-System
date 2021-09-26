@@ -5,7 +5,7 @@
 
 <imge src="https://drive.google.com/file/d/1dBrxRlZSmI6krI1J_sBJ_Mx0jZu11FnO/view?usp=sharing">
   
-![1](https://user-images.githubusercontent.com/48655681/134819778-c7a099f8-04f7-4176-85fa-ec52079037d4.jpeg)
+<img src="![1](https://user-images.githubusercontent.com/48655681/134819778-c7a099f8-04f7-4176-85fa-ec52079037d4.jpeg)">
   
 ![2](https://user-images.githubusercontent.com/48655681/134819783-311bc0f1-a24e-4e58-808d-4c36b9affe4f.jpeg)
   
