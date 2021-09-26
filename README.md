@@ -1,4 +1,4 @@
-# Hospital Databaes-Management-System
+# Hospital Databaes Management System
 
 - Developed an application that maintains all the details regarding patient registration, room allocation, and billing.
 
